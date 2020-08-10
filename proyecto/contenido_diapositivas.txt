@@ -1,0 +1,8 @@
+diapositivas 
+
+nombre 
+descripcion del problema 
+personas que se benefician
+metodos utilizados 
+resultados  
+conclusiones
